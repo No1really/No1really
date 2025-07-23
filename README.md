@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 Custom-Easyeffects-Presets: My personal collection of audio presets for Easyeffects, an equalizer for Pipewire, designed to enhance your audio experience.
 
 •
-OneClick-For-Linux: A collection of simple shell scripts to automate various tasks and streamline workflows on Linux systems.
+OneClick-For-Linux: A collection of simple shell scripts to automate updates.
 
 Interests
 
